@@ -3,8 +3,8 @@ import './globals.css';
 
 
 export const metadata = {
-  title: 'NextLevel Food',
-  description: 'Delicious meals, shared by a food-loving community.',
+  title: 'Meals App',
+  description: 'Aplikacja dla udostępniania smacznych posiłków.',
 };
 
 export default function RootLayout({ children }) {
